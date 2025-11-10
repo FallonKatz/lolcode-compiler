@@ -1,0 +1,12 @@
+#HAI
+#MAEK HEAD
+    #GIMMEH TITLE Test 12 #MKAY
+#OIC
+
+#MAEK PARAGRAF
+    #I HAZ x #IT IZ 10 #MKAY
+    #I HAZ y #IT IZ 5 #MKAY
+    Sum of x and y is #LEMME SEE x #MKAY plus #LEMME SEE y #MKAY
+#OIC
+
+#KTHXBYE
