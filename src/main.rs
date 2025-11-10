@@ -294,9 +294,9 @@ fn main() {
     let choice: usize = input.trim().parse().unwrap_or(1);  //parse into an integer, or default to 1
 
     let filename = if choice == 1 {
-        "tests/Test1.txt".to_string()
+        "test/Test1.txt".to_string()
     } else {
-        format!("tests/Test{}.lol", choice)
+        format!("test/Test{}.lol", choice)
     };
 
     if !filename.ends_with(".lol") {    //only allows files ending in .lol, .txt is a no-no
